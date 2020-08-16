@@ -1,4 +1,3 @@
-# Programmer - python_scripts (Abhijith Warrier)
 
 # Importing necessary packages
 from tkinter import *
